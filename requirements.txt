@@ -1,0 +1,7 @@
+tgcrypto
+pyrogram
+requests
+asyncio
+user_agent
+pyromod
+aiohttp
