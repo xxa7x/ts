@@ -17,10 +17,10 @@ from pyrogram.types import (ReplyKeyboardMarkup, InlineKeyboardMarkup,
                             InlineKeyboardButton)
 api_id = 18922496
 api_hash = '371d1dc33eccaa19bb0814a27bb98f3c'
-token = '5701148811:AAEDFLl9tN6VhjO-HGWr3S_R_po59THRPhk'  # vmwbot
-token2 = '5554345313:AAHr_-H99_5g9LI26CVt4LkuG9tu27qgsTo'  # lj4bot
+token = '5490492288:AAGLCMOVsmYJolrofALL79xB8is0GDdFKz0'  # vmwbot
+token2 = '5695022956:AAHdCQRIE9aIQIjz1gm2FqT14V1v5ow0FnA'  # lj4bot
 bot = Client("Bot", bot_token=token, api_hash=api_hash, api_id=api_id)
-dev = 1403347605
+dev = 5307018300
 stats = []
 users = []
 
